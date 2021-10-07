@@ -20,6 +20,13 @@
 * UHD630在10.14.1原生驱动，不需要添加任何驱动，也不需要在Clover配置，睡眠DP音频都没问题
 * 声卡驱动使用[AppleALC](https://github.com/vit9696/AppleALC)+[Lilu](https://github.com/vit9696/Lilu)，Clover注入ID 5
 
+### 更新 OC 技巧
+
+例如：从 0.7.0 更新到 0.0.4
+
+1. diff 工具对比 两版本 sample.plist, 把不同点同步到现在的 config.plist
+2. 更新 BOOT Drivers Kexts Resources Tools OpenCore.efi
+
 ## BIOS settings
 
 ### Disable

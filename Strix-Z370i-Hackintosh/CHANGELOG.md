@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## 2021.10.07
+
+- Update OpenCore to v0.7.4
+
+```
+├── AirportBrcmFixup-2.1.3-RELEASE.zip
+├── AppleALC-1.6.5-RELEASE.zip
+├── BrcmPatchRAM-2.6.0-RELEASE.zip
+├── IntelMausi-1.0.7-RELEASE.zip
+├── Lilu-1.5.6-RELEASE.zip
+├── NVMeFix-1.0.9-RELEASE.zip
+├── VirtualSMC-1.2.7-RELEASE.zip
+└── WhateverGreen-1.5.4-RELEASE.zip
+```
+
 ## 2021.06.12
 
 - Update OpenCore to v0.7.0
